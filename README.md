@@ -79,8 +79,13 @@ flowchart LR
     classDef cloud fill:#107C41,stroke:#043918,stroke-width:2px,color:#fff;
     class AZURE,AWS,GCP cloud;
     class Security,TFLINT,CHECKOV,TRIVY,SONAR security;
-    class PIPELINE,TF,MODULES primary;
 ```
+
+#### 🔑 Key Architecture & Security Pillars:
+* 🏛️ **Enterprise Azure Landing Zone (CAF):** Scalable Hub-and-Spoke topology with centralized governance, Management Groups, and Azure Policy enforcement.
+* 🛡️ **Shift-Left DevSecOps:** Automated security gates (Checkov, tfsec, TFLint, Trivy) embedded into CI/CD pipelines to catch vulnerabilities pre-deployment.
+* 🔒 **State Integrity & Zero Secrets:** Concurrency lease locking on Azure Blob Storage prevents state corruption; credentials dynamically resolved via Azure Key Vault.
+* 📊 **Multi-Cloud Observability:** Unified telemetry across Azure, AWS, and GCP monitored via Prometheus, Grafana, and Azure Log Analytics.
 
 ---
 
