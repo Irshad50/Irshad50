@@ -12,10 +12,12 @@
 
 <!-- QUICK BADGES & CTA FOR HRs / CLIENTS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-irshad-alam-0a5278220)
-[![Email](https://img.shields.io/badge/Email-mdirshadalam91190@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdirshadalam91190@gmail.com)
-[![Phone/WhatsApp](https://img.shields.io/badge/Direct%20Call-%2B91%2073198%2079150-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917319879150)
 [![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 [![Status](https://img.shields.io/badge/Availability-Immediate%20Joiner-brightgreen?style=for-the-badge&logo=clock&logoColor=white)](mailto:mdirshadalam91190@gmail.com)
+
+<br/>
+
+<sub>📬 **Get in touch:** <a href="mailto:mdirshadalam91190@gmail.com">mdirshadalam91190@gmail.com</a></sub>
 
 </div>
 
@@ -194,9 +196,8 @@ Explore my production-grade, enterprise-tested infrastructure codebases:
 
 Whether you are a **Recruiter**, **Hiring Manager**, or **Enterprise Client** looking to build or optimize your Cloud & DevOps infrastructure:
 
-* 📧 **Email:** [mdirshadalam91190@gmail.com](mailto:mdirshadalam91190@gmail.com)
-* 📱 **Phone / WhatsApp:** [+91 73198 79150](https://wa.me/917319879150)
-* 💼 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/)
+* 💼 **LinkedIn:** [linkedin.com/in/md-irshad-alam-0a5278220](https://www.linkedin.com/in/md-irshad-alam-0a5278220)
+* 📬 **Email:** `mdirshadalam91190@gmail.com`
 * 📍 **Location:** Bangalore, India *(Open to Relocation & Worldwide Remote)*
 * ⚡ **Availability:** **Immediate Joiner**
 
