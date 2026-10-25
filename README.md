@@ -3,21 +3,24 @@
 <!-- ANIMATED HEADER BANNER (AZURE TO CYBER CYAN WAVE) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020D1A,35:0078D4,100:00F2FE&height=220&section=header&text=MD%20IRSHAD%20ALAM&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="MD Irshad Alam Header Banner" width="100%" />
 
+<br/>
+
 <!-- ANIMATED TYPING SVG HEADLINE -->
 <a href="https://www.linkedin.com/in/md-irshad-alam-0a5278220">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1100&color=00F2FE&center=true&vCenter=true&width=900&height=50&lines=Senior+Azure+DevOps+Engineer+%26+Multi-Cloud+Architect;Microsoft+Azure+%7C+AWS+%7C+Google+Cloud+(GCP);Enterprise+IaC+with+Terraform+%26+Ansible;Kubernetes+(AKS)%2C+Docker+Containers+%26+Helm;DevSecOps+%7C+Checkov+%7C+Trivy+%7C+TFLint+%7C+SonarQube;11%2B+Years+IT+Experience+%7C+Ericsson+Global" alt="Animated Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=0078D4&center=true&vCenter=true&width=900&height=50&lines=Senior+Azure+DevOps+Engineer+and+Multi-Cloud+Architect;Microsoft+Azure+%7C+AWS+%7C+Google+Cloud+(GCP);Enterprise+IaC+with+Terraform+and+Ansible;Kubernetes+(AKS)+and+Docker+Containers;DevSecOps+with+Checkov%2C+Trivy+and+TFLint;11%2B+Years+IT+Experience+at+Ericsson" alt="Animated Typing Headline" />
 </a>
+
+### 🔷 Lead Azure DevOps Engineer | Multi-Cloud Platform Architect
+
+**Cloud Infrastructure · Terraform Enterprise IaC · DevSecOps · Kubernetes (AKS)**
 
 <br/>
 
 <!-- QUICK BADGES BAR -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-irshad-alam-0a5278220)
+[![Email](https://img.shields.io/badge/Email-mdirshadalam91190%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdirshadalam91190@gmail.com)
 [![Cloud Experience](https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20GCP-232F3E?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/Irshad50)
-[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
-
-<br/>
-
-<sub>📬 **Get in touch:** <a href="mailto:mdirshadalam91190@gmail.com">mdirshadalam91190@gmail.com</a></sub>
+[![Location](https://img.shields.io/badge/Location-Bangalore%2C%20India-107C41?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
 </div>
 
